@@ -11,7 +11,7 @@ We created an Entity Relationship model within the Microsoft Dataverse to provid
 * Sql Server Reporting Services
 * Sql Server Integration Services
 
-## Features
+## Roles/Responsibilities
 * Team Lead and managed division of labor between team members.
 * Management of the Kanban board to have our goals clearly expressed from beginning ideas development to completion.
 * Debug issues of team members to maintain consistency of delivery and ensure accurate implementation.
